@@ -10,7 +10,7 @@
         <header>
             <h1 class="titulo-principal">Floricultura Bloom</h1>
         </header>
-        <img id="banner" src="banner.jpg">
+        <img id="banner" src="floricultura.jpg">
         <div class="principal">
             <h2 class="titulo-centralizado">Sobre a Floricultura Bloom</h2>
 
@@ -31,7 +31,7 @@
                 <li class="itens">Profissionais Qualificados</li>
             </ul>
 
-            <img src="beneficios.jpg" class="imagembeneficios">
+            <img src="interior.jpg" class="interior">
         </div>
     </body>
 </html>
