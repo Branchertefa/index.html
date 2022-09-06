@@ -12,7 +12,9 @@ body {
 }
 
 .titulo-principal {
+	text-align: center;
 	padding-left: 20px;
+	font-size: 50px;
 }
 
 .titulo-centralizado {
@@ -47,6 +49,6 @@ ul {
 	margin-right: 15%;
 }
 
-.imagembeneficios {
+.interior {
 	width: 50%;
-}v
+}
